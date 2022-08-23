@@ -1,4 +1,3 @@
 # Machine-Learning-Specialization
-Labs and Quizzes For ML-Coursera
 
-Solution to graded assignments as well as practice quizzes for each course in this specialization course
+In this specialization I learned diff machine learing algo, how they really function. All the labs and quizzes are listed accordin to course  
